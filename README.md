@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Kaviarasan S 👋
 
-<!--
-**TheKavi/TheKavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | AI & Automation Enthusiast
 
-Here are some ideas to get you started:
+I'm a Software Developer passionate about building scalable web applications, AI-powered solutions, and intelligent automation systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming complex business requirements into practical software solutions.
+
+### 💻 Technical Skills
+
+**Frontend Development**
+- React.js
+- JavaScript
+- TypeScript
+- HTML5 & CSS3
+- Tailwind CSS
+- Bootstrap
+
+**Backend Development**
+- Node.js
+- NestJS
+- Python
+- Flask
+- REST APIs
+
+**Databases & Infrastructure**
+- PostgreSQL
+- MySQL
+- Redis
+- Docker
+- Git & GitHub
+- Linux / Ubuntu
+
+**AI & Automation**
+- AI-powered Document Processing
+- OCR & Data Extraction
+- Workflow Automation
+- AI Agent Integration
+- ERP Integration
+
+### 🚀 Areas of Interest
+
+- Full-Stack Application Development
+- Artificial Intelligence & Automation
+- Backend Architecture
+- API Development & Integration
+- Database Design
+- Problem Solving
+
+### 📌 Currently Working On
+
+- Building AI-powered automation solutions.
+- Developing scalable backend services and REST APIs.
+- Exploring AI integrations and intelligent document processing.
+- Improving application architecture and development practices.
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KAVI-2012&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KAVI-2012&layout=compact&theme=tokyonight)
+
+### 🤝 Connect With Me
+
+- GitHub: https://github.com/KAVI-2012
+
+---
+
+*Always learning, building, and improving.*
