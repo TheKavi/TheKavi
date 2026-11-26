@@ -56,13 +56,13 @@ I enjoy transforming complex business requirements into practical software solut
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KAVI-2012&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheKavi&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KAVI-2012&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKavi&layout=compact&theme=tokyonight)
 
 ### 🤝 Connect With Me
 
-- GitHub: https://github.com/KAVI-2012
+- GitHub: [https://github.com/TheKavi](https://github.com/TheKavi)
 
 ---
 
